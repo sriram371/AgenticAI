@@ -17,3 +17,4 @@ arxiv
 PyMuPDF
 chromadb
 langchain-chroma
+langchain_groq
