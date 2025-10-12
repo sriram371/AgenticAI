@@ -1,0 +1,10 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+# Streamlit cache
+.streamlit/
+
+# FAISS index files
+faiss_index/

@@ -1,0 +1,28 @@
+# Core LangChain ecosystem
+langchain==0.3.4
+langchain-community==0.3.3
+langchain-experimental==0.3.3
+
+# Embeddings and local models
+sentence-transformers==3.0.1
+transformers==4.44.0
+torch>=2.1.0
+
+# Vector database
+faiss-cpu==1.8.0.post1
+
+# Local LLM integration
+ollama==0.1.9
+
+# PDF processing
+PyMuPDF==1.24.9
+
+# Streamlit app framework
+streamlit==1.38.0
+
+# Environment and utilities
+python-dotenv==1.0.1
+tqdm==4.66.4
+
+# Optional: Jupyter and development support
+jupyter==1.1.1
