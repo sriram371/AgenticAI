@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+slack-bolt
+langgraph
+langchain
+python-dotenv
+requests
+fastapi
+slack-bolt
+

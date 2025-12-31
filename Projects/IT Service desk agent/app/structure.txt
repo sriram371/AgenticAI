@@ -1,0 +1,18 @@
+it-service-desk-agent/
+│
+├── app/
+│   ├── main.py
+│   ├── slack_entry.py          # Slack → Graph entry
+│   ├── graph.py                # LangGraph orchestration ⭐
+│   ├── state.py                # Graph state schema ⭐
+│   ├── nodes/
+│   │   ├── intent_node.py
+│   │   ├── policy_node.py
+│   │   ├── resolution_node.py
+│   │   └── jira_node.py
+│   └── tools/
+│       └── jira_tool.py
+│
+├── requirements.txt
+├── .env
+└── README.md
