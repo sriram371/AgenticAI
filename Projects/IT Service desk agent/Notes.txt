@@ -1,0 +1,35 @@
+Example 1 – Support + Dev Sync
+Freshdesk ↔ Jira
+Workflow: User support ticket → auto-create Jira issue → notify Slack → update CRM
+
+Example 2 – Productivity Workspace Bot
+Notion ↔ Trello ↔ Slack
+Workflow: New Notion task → create Trello card → remind in Slack → mark done in Notion
+
+Example 3 – CRM + Dev Ops Bridge
+HubSpot ↔ Jira
+Workflow: Qualified lead → create Jira task for onboarding → send Slack alert to team
+
+
+
+https://api.slack.com/apps/A0A5JQLQ3V2/oauth?
+
+
+I want to build IT Service Desk Agent
+
+
+What This Agent Does (Real Company Usage)
+
+This agent replaces L1 IT support by handling:
+
+Password reset requests
+
+VPN / access issues
+
+Software installation requests
+
+Laptop / hardware issues
+
+Ticket creation + escalation
+
+This is literally a core Yellow.ai offering.

@@ -1,0 +1,6 @@
+run the server--> uvicorn app.main:api --reload --port 3000
+
+local url--> http://localhost:3000/
+
+ngrok http 3000
+
